@@ -1,4 +1,4 @@
-/*package academy.tochkavhoda.introduction;
+package academy.tochkavhoda.introduction;
 
 import org.junit.jupiter.api.Test;
 
@@ -219,5 +219,3 @@ public class TestZeroSteps4 {
         assertEquals(23,zeroSteps4.sumUntilNotFound(matrix, 4));
     }
 }
-
- */

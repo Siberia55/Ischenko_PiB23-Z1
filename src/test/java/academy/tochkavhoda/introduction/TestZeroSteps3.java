@@ -1,4 +1,4 @@
-/*package academy.tochkavhoda.introduction;
+package academy.tochkavhoda.introduction;
 
 import org.junit.jupiter.api.Test;
 
@@ -342,4 +342,4 @@ public class TestZeroSteps3 {
         assertEquals(0, zeroSteps3.scalarProduct(array12, array22));
     }
 
-}*/
+}
