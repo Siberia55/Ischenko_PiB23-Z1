@@ -142,6 +142,7 @@ public class ZeroSteps2 {
             int j = 1;
             while (j <= count2) {
                 int k = 1;
+//                break;
                 while (k <= count3) {
                     sum += i * j * k;
                     k++;

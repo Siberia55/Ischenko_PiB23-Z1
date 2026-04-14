@@ -72,8 +72,8 @@ public class ZeroSteps3 {
     }
 
     public boolean isSortedDescendant(int[] array) {
-        for (int i = 1; i < array.length; i++) {
-            if (array[i] >= array[i - 1]) {
+        for (int i = 0; i < array.length - 1; i++) {
+            if (array[i] <= array[i + 1]) {
                 return false;
             }
         }
