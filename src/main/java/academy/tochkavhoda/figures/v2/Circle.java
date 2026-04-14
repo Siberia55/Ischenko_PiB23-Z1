@@ -72,18 +72,7 @@ public class Circle extends Figure {
         this.x = point.getX();
         this.y = point.getY();
     }
-/*
-    @Override
-    public void moveTo(int x, int y) {
-        this.x = x;
-        this.y = y;
-    }
 
-    // Перемещение к точке
-    public void moveTo(Point point) {
-        moveTo(point.getX(), point.getY());
-    }
-*/
     @Override
     public void moveRel(int dx, int dy) {
         super.moveRel(dx, dy);

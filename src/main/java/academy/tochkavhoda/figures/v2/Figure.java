@@ -1,6 +1,5 @@
 package academy.tochkavhoda.figures.v2;
 
-import academy.tochkavhoda.figures.v2.Point;
 import academy.tochkavhoda.iface.v2.HasArea;
 import academy.tochkavhoda.iface.v2.Movable;
 import academy.tochkavhoda.iface.v2.Resizable;
